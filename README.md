@@ -18,4 +18,8 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hardikagarwal1703/LeetCodeProblems/tree/master/0001-two-sum) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/hardikagarwal1703/LeetCodeProblems/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
