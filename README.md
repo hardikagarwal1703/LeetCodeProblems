@@ -22,4 +22,16 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/hardikagarwal1703/LeetCodeProblems/tree/master/0175-combine-two-tables) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/hardikagarwal1703/LeetCodeProblems/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/hardikagarwal1703/LeetCodeProblems/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/hardikagarwal1703/LeetCodeProblems/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
